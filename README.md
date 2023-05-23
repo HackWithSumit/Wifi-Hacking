@@ -4,7 +4,7 @@ This method allows hackers to hijack any packet of data that is being transmitte
 
 Wifi Hacking
 
-Divided into 4 steps:
+Divided into 5 steps:
 
 1. Starting the Monitoring mode on the adapter. -> 
      
