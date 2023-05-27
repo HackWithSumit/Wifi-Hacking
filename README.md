@@ -27,10 +27,11 @@ Divided into 5 steps:
         aircrack-ng -w wordlist.txt kali.cap
 
          
-        Once the password matches we will get the correct password.
+       
+  Once the password matches we will get the correct password.
 
 
-        Crunch tool comes pre-installed in Kali. 
+  Crunch tool comes pre-installed in Kali. 
 
 Command: 
 
